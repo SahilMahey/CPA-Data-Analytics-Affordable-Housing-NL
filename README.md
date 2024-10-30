@@ -50,7 +50,7 @@ Our team created a Power BI report to visualize the housing data for NL. The PDF
 
 ### Team Members
 
-- [Sahil Mahey Haris Ansari, Sameuel Adeoye,  Stephanie O'Quinn]
+- Sahil Mahey Haris Ansari, Sameuel Adeoye,  Stephanie O'Quinn
 
 ### Individual Contribution - [Sahil Mahey]
 
@@ -81,7 +81,7 @@ We would like to thank the CPA Data Analytics Hackathon organizers and judges fo
 ## Repository Contents
 
 1. `Final Presentation.pptx`: Detailed presentation of our analysis and recommendations
-2. `PowerBI File.pdf`: PDF export of our Power BI dashboard
+2. `PowerBI File.pdf`: PDF export of our Power BI reports
 
 ## How to Use This Repository
 
