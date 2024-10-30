@@ -88,4 +88,4 @@ We would like to thank the CPA Data Analytics Hackathon organizers and judges fo
 1. Review the `Final Presentation.pdf` for a comprehensive understanding of our project, analysis, and recommendations.
 2. Examine the `Power BI.pdf` for detailed data visualizations supporting our findings.
 
-For any questions or further information, please contact [smahey@mun.ca].
+For any questions or further information, please contact smahey@mun.ca.
