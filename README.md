@@ -42,7 +42,7 @@ This project addresses the significant gap in affordable housing projects in New
 
 ### Implementation Timelines
 
-Detailed timelines for each recommendation are provided in the full presentation.
+Detailed timelines for each recommendation are provided in the 'Final Presentation.pdf'.
 
 ### Data Visualization
 
@@ -80,12 +80,12 @@ We would like to thank the CPA Data Analytics Hackathon organizers and judges fo
 
 ## Repository Contents
 
-1. `Final Presentation.pptx`: Detailed presentation of our analysis and recommendations
+1. `Final Presentation.pdf`: Detailed presentation of our analysis and recommendations
 2. `PowerBI File.pdf`: PDF export of our Power BI reports
 
 ## How to Use This Repository
 
-1. Review the `Final Presentation.pptx` for a comprehensive understanding of our project, analysis, and recommendations.
+1. Review the `Final Presentation.pdf` for a comprehensive understanding of our project, analysis, and recommendations.
 2. Examine the `Power BI.pdf` for detailed data visualizations supporting our findings.
 
 For any questions or further information, please contact [smahey@mun.ca].
